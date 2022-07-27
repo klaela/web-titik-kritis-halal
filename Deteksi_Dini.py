@@ -99,4 +99,4 @@ if uploaded_file is not None:
      st.warning('Penyebab produk berpotensi haram:')
      potensi = df.loc[df['Status_Halal'] == 'Haram', 'Activity']
      if potensi is not None:
-        st.dataframe(potensi)
+        st.write(potensi.values)
