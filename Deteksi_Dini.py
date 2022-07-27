@@ -100,4 +100,4 @@ if uploaded_file is not None:
      potensi = df.loc[df['Status_Halal'] == 'Haram', 'Activity']
      if potensi is not None:
         #st.dataframe(potensi)
-        st.write(potensi)
+        st.tabel(potensi)
