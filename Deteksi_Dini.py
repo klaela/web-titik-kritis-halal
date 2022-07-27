@@ -15,7 +15,7 @@ st.title('Website Prediksi Titik Kritis Halal Bahan Hewani')
 
 st.caption('Website ini merupakan bagian dari penelitian tugas akhir Penelurusan Titik Kritis Halal, Teknik Informatika, Institut Teknologi Sepuluh Nopember, Surabaya, 2022')
 
-uploaded_file = st.file_uploader("Choose a file")
+uploaded_file = st.file_uploader("Choose a log event file")
 
 data = pd.read_csv("./app_history.csv", sep=';',  error_bad_lines=False)  # read a CSV file inside the 'data" folder next to 'app.py'
 #st.dataframe(data)
@@ -98,4 +98,6 @@ if uploaded_file is not None:
 
      st.warning('Penyebab produk berpotensi haram:')
      potensi = df.loc[df['Status_Halal'] == 'Haram', 'Activity']
-     st.dataframe(potensi,300,100)
+     if potensi is not None:
+        #st.dataframe(potensi)
+        st.write(potensi)
