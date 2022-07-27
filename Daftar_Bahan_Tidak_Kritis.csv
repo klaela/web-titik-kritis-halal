@@ -1,0 +1,134 @@
+No;Kelompok Bahan;Nama Bahan
+1;Bahan Hewani;Madu murni
+2;Bahan Hewani;Susu segar
+3;Bahan Hewani; Telur segar/asin
+4;Bahan Hewani;Hewan air segar/beku/kering/asin
+5;Bahan Pewarna;E102 Tartrazine
+6;Bahan Pewarna;E104 Quinoline Yellow (C.I. 47005) / Food Yellow 13
+7;Bahan Pewarna;E110 Sunset Yellow FCF/FD&C Yellow 6
+8;Bahan Pewarna;E 122 Carmoisine/Azorubine (C.I. 14720)
+9;Bahan Pewarna;E124 Ponceau 4R/Cochineal Red A (C.I. 16255)
+10;Bahan Pewarna;"E127 Erythrosine BS (C.I. 45430; FD and C Red 3)"
+11;Bahan Pewarna;E128 Red 2G (C.I. 18050)
+12;Bahan Pewarna;"E129 Allura Red AC (C.I. 16035; Food Red 17; FD and C Red 40)"
+13;Bahan Pewarna;E131 Patent Blue V (C.I. 42051)
+14;Bahan Pewarna;"E132 Indigo Carmine/ Indigotine (C.1. 73015; FD and C Blue 2)"
+15;Bahan Pewarna;"E133 Brilliant Blue FCF (C.I. 42090; FD & C Blue 1)"
+16;Bahan Pewarna;"E142 Green S/ Acid Brilliant Green BS (Food green S: Lissamine green; C.I 44090)"
+17;Bahan Pewarna;E150a Plain caramel 
+18;Bahan Pewarna;E150b Caustic sulphite caramel 
+19;Bahan Pewarna;E150c Ammonia caramel 
+20;Bahan Pewarna;E150d Sulphite ammonia caramel
+21;Bahan Pewarna;E151 Black PN/Brilliant Black BN (C.I. 28440)
+22;Bahan Pewarna;E154 Brown FK
+23;Bahan Pewarna;E155 Brown HT
+24;Bahan Pewarna;E162 Beetroot Red/ Betanin, Betanidin
+25;Bahan Pewarna;E171 Titanium Dioxide (C.1. 77891)
+26;Bahan Pewarna;"E172 Iron Oxides, iron hydroxides yellow/brownC.1. 77492; red: 7491; brown: 77499)"
+27;Bahan Pewarna;E173 Aluminium (C.1. 77000)
+28;Bahan Pewarna;E174 Silver (C.1. 77820)
+29;Bahan Pewarna;E175 Gold
+30;Bahan Pewarna;E180 Pigment Rubine/ Lithol Rubine BK (C.1. 15850)
+31;Bahan Pengawet;E200 Sorbic Acid
+32;Bahan Pengawet;E201 Sodium Sorbate
+33;Bahan Pengawet;E202 Potassium Sorbate
+34;Bahan Pengawet;E203 Calcium Sorbate
+35;Bahan Pengawet;E210 Benzoic Acid
+36;Bahan Pengawet;E211 Sodium Benzoate
+37;Bahan Pengawet;E212 Potassium Benzoate
+38;Bahan Pengawet;E213 Calcium Benzoate
+39;Bahan Pengawet;E214 Ethyl 4-hydroxybenzoate
+40;Bahan Pengawet;E215 Ethyl 4-hydroxybenzoate, Sodium Salt
+41;Bahan Pengawet;E216 Propyl 4-hydroxybenzoate
+42;Bahan Pengawet;E217 Propyl 4-hydroxybenzoate, Sodium Salt
+43;Bahan Pengawet;E218 Methyl 4-hydroxybenzoate
+44;Bahan Pengawet;E219 Methyl 4-hydroxybenzoate, Sodium Salt
+45;Bahan Pengawet;E220 Sulphur Dioxide
+46;Bahan Pengawet;E221 Sodium Sulphite
+47;Bahan Pengawet;E222 Sodium Hydrogen Sulphite
+48;Bahan Pengawet;E223 Sodium Metabisulphite
+49;Bahan Pengawet;E224 Potassium Metabisulphite
+50;Bahan Pengawet;E226 Calcium Sulphite
+51;Bahan Pengawet;E227 Calcium Hydrogen Sulphite
+52;Bahan Pengawet;E230 Biphenyl/Diphenyl
+53;Bahan Pengawet;E231 2-Hydroxybiphenyl
+54;Bahan Pengawet;E232 Sodium Biphenyl-2-yl-Oxide
+55;Bahan Pengawet;E233 2-(thiazol-4-yl) Benzimidazole
+56;Bahan Pengawet;E239 Hexamine
+57;Bahan Pengawet;E249 Potassium Nitrate
+58;Bahan Pengawet;E250 Sodium Nitrite
+59;Bahan Pengawet;E251 Sodium Nitrate
+60;Bahan Pengemulsi dan Penstabil;E400 Alginic Acid
+61;Bahan Pengemulsi dan Penstabil;E401 Sodium Alginate
+62;Bahan Pengemulsi dan Penstabil;E402 Potassium Alginate
+63;Bahan Pengemulsi dan Penstabil;E403 Ammonium Alginate
+64;Bahan Pengemulsi dan Penstabil;E404 Calcium Alginate
+65;Bahan Pengemulsi dan Penstabil;"E405 Propane-1,2-Diol Alginate (Propylene glycol alginate; alginate ester)"
+66;Bahan Pengemulsi dan Penstabil;E406 Agar
+67;Bahan Pengemulsi dan Penstabil;E407 Carrageenan
+68;Bahan Pengemulsi dan Penstabil;E410 Locust Bean Gum (Carob Gum)
+69;Bahan Pengemulsi dan Penstabil;E412 Guar Gum
+70;Bahan Pengemulsi dan Penstabil;E413 Tragacanth
+71;Bahan Pengemulsi dan Penstabil;E414 Gum Acacia (Gum Arabic)
+72;Bahan Pengemulsi dan Penstabil;E416 Karaya gum (Sterculia gum, Indian tragacanth)
+73;Bahan Pengemulsi dan Penstabil;E440a Pectin
+74;Bahan Pengemulsi dan Penstabil;E440b Amidated Pectin
+75;Bahan Pengemulsi dan Penstabil;E442 Ammonium phosphatides (Emulsifier YN)
+76;Bahan Pengemulsi dan Penstabil;E460 Microcrystalline/Powdered Cellulose
+77;Bahan Pengemulsi dan Penstabil;E461 Methylcellulose
+78;Bahan Pengemulsi dan Penstabil;E463 Hydroxypropylcellulose
+79;Bahan Pengemulsi dan Penstabil;E464 Hydroxypropyl-Methylcellulo
+80;Bahan Pengemulsi dan Penstabil;E465 Ethylmethylcellulose
+81;Bahan Pengemulsi dan Penstabil;E466 Ethylmethylcellulose
+82;Bahan Penguat Rasa;E636 Maltol
+83;Bahan Penguat Rasa;E637 Ethyl Maltol
+84;Bahan Penguat Rasa;E900 Dimethylpolysiloxane
+85;Bahan Antioksidan Sintetik;BHA (Butylated Hydroxyanisole)
+86;Bahan Antioksidan Sintetik;BHT (Butylated Hydroxytolune)
+87;Bahan Antioksidan Sintetik;TBHQ (Tertiary Butylhydroquinone)
+88;Bahan Asam Organik;Asam asetat (C2H4O2)
+89;Bahan Asam Organik;Asam benzoat (C7H6O2)
+90;Bahan Asam Organik;Asam format (HCOOH)
+91;Bahan Asam Organik;Asam ftalat (C6H4(CO2H)2)
+92;Bahan Asam Organik;Asam fumarat (acid/trans-butenedioic acid, HO2CCH=CHCO2H)
+93;Bahan Asam Organik;Asam glukonat (C6H12O7)
+94;Bahan Asam Organik;Asam glukoronat (B-D-glucopyranuronic acid, C6H10O)
+95;Bahan Asam Organik;Asam glutarat (C3H6(COOH)2)
+96;Bahan Asam Organik;Asam heksanoat / kaprilat (CH3(CH2)4COOH)
+97;Bahan Asam Organik;(DL) Asam malat (hydroxybutanedioic acid, HO2CCH2CHOHCO2H)
+98;Bahan Asam Organik;Asam malonat (CH2(COOH)2)
+99;Bahan Asam Organik;Asam oksalat (H2C2O4)
+100;Bahan Asam Organik;Asam pentanoat/valerat (CH3(CH2)3COOH)
+101;Bahan Asam Organik;Asam propionat (CH3CH2COOH)
+102;Bahan Asam Organik;Asam sorbat (2,4-hexadienoic acid, C6H8O2)
+103;Bahan Asam Organik;Asam suksinat (butanedioic acid)
+104;Bahan Asam Organik;Asam tartarat(2,3-dihydroxybutanedioic acid)
+105;Garam dari Asam Organik;Garam askorbat
+106;Garam dari Asam Organik;Garam benzoat
+107;Garam dari Asam Organik;Garam butirat
+108;Garam dari Asam Organik;Garam hydrogen ftalat
+109;Garam dari Asam Organik;Garam laktat
+110;Garam dari Asam Organik;Garam oksalat
+111;Garam dari Asam Organik;Garam propionat
+112;Garam dari Asam Organik;Garam sitrat
+113;Garam dari Asam Organik;Garam sorbat
+114;Garam dari Asam Organik;Garam suksinat
+115;Asam Anorganik;asam borat (H3BO3)
+116;Asam Anorganik;asam fosfat (H3PO4)
+117;Asam Anorganik;asam karbonat (H2CO3)
+118;Asam Anorganik;asam klorida (HCl)
+119;Asam Anorganik;asam nitrat (HNO3)
+120;Asam Anorganik;asam perklorat (HCIO4)
+121;Asam Anorganik;asam sulfat (H2SO4)
+122;Basa Anorganik;amonium (NH4OH)
+123;Basa Anorganik;barium hidroksida (Ba(OH)2)
+124;Basa Anorganik;kalium hidroksida (KOH)
+125;Basa Anorganik;kalsium hidroksida (Ca(OH)2)
+126;Basa Anorganik;natrium hidroksida (NaOH)
+127;Garam (Asam-basa Anorganik);Kelompok garam fosfat: natrium fosfat (Na3PO4), natrium dihidrogen fosfat (NaH2PO4), natrium hydrogen fosfat (Na2HPO4), amonium fosfat ((NH4)3PO4), Na-heksametaposfat
+128;Garam (Asam-basa Anorganik);Kelompok garam karbonat: amonium karbonat ((NH4)2CO3), kalium karbonat (K2CO3), natrium karbonat (Na2CO3)
+129;Garam (Asam-basa Anorganik);Kelompok garam klorida: amonium klorida (NH4CI), kalium klorida (KCl), kalsium klorida (CaCl2), natrium klorida (NaCl), natrium hipoklorit (NaClO), natrium klorit (NaClO2), natrium klorat (NaClO3)
+130;Garam (Asam-basa Anorganik);Kelompok garam nitrat: kalium nitrat (KNO3), natrium nitrat (NaNO3)
+131;Garam (Asam-basa Anorganik);Kelompok garam nitrit: natrium nitrit (NaNO2)
+132;Garam (Asam-basa Anorganik);Kelompok garam sulfat: aluminium sulfat/tawas [Al2(SO4)3.18H2O], amonium sulfat ((NH4)2SO4), ferro sulfat (FeSO4), kalium sulfat (K2SO4), natrium sulfat (Na2SO4)
+133;Garam (Asam-basa Anorganik);Kelompok garam sulfit: Nametabisulfit
